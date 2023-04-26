@@ -1,6 +1,6 @@
 # **Molecular Analysis Toolkit**
 
-The **Molecular Analysis Toolkit** is a collection of Python scripts designed to facilitate the study of diffusion behavior of specific atomic species in complex systems, allowing researchers to unravel intra and interchain diffusion mechanisms.
+The **Molecular Analysis Toolkit** is a collection of Python scripts designed to facilitate the study of diffusion behavior of specific atomic species in complex systems, allowing researchers to unravel intra and interchain diffusion mechanisms. Currently, the toolkit is designed to be used for LAMMPS trajectory files.
 
 The toolkit is tailored for researchers seeking to understand the diffusion behavior of specific atomic species or groups of atoms within complex systems. By focusing on the analysis of diffusion mechanisms, this toolkit provides valuable insights into intra and interchain diffusion processes, enabling researchers to identify the governing factors behind the movement of atoms of interest.
 
@@ -8,7 +8,7 @@ Designed with flexibility in mind, the Molecular Analysis Toolkit can be applied
 
 ## **Description**
 
-This toolkit consists of three Python scripts that work in tandem to process and analyze molecular dynamics simulation data, providing insights into the diffusion behavior of target atomic species or groups of atoms within complex systems. Researchers can use this toolkit to study a wide range of systems, such as understanding Li diffusion in solid polymer electrolytes (SPEs) or investigating other target species in various contexts.
+This toolkit consists of three Python scripts that work in tandem to process and analyze LAMMPS molecular dynamics simulation data, providing insights into the diffusion behavior of target atomic species or groups of atoms within complex systems. Researchers can use this toolkit to study a wide range of systems, such as understanding Li diffusion in solid polymer electrolytes (SPEs) or investigating other target species in various contexts.
 
 ## **Installation**
 
